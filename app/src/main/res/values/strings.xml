@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastProjekt</string>
+    <string name="powerChange">Battery Change</string>
+    <string name="battery_change">Battery has changed</string>
+</resources>
